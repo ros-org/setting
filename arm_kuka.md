@@ -126,9 +126,15 @@
 
 ![image-20230621092210812](assets/arm_kuka_img/image-20230621092210812.png)
 
-![](assets/arm_kuka_img/image-20230621094519097.png)
+##### 机器人初次通电——初次上电
 
+机器人KSS系统里，会提示选择机器人信息的对话框，选择“机器人”按钮
 
+![image-20230626150430680](assets/arm_kuka_img/image-20230626150430680.png)
+
+点击① ——选择管理员——输入密码kuka
+
+![image-20230626151043896](assets/arm_kuka_img/image-20230626151043896.png)
 
 ##### 完成！
 
