@@ -1,6 +1,6 @@
-### Linux下node环境配置
+##### Linux下node环境配置
 
-```
+```bash
 # 检查架构
 uname -m
 
@@ -24,3 +24,6 @@ sudo ln -s /usr/local/node-v16.18.1-linux-arm64/bin/npm /usr/local/bin/
 node -v
 npm -v
 ```
+
+
+
