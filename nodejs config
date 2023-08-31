@@ -1,5 +1,6 @@
-```bash
+### Linux下node环境配置
 
+```
 # 检查架构
 uname -m
 
