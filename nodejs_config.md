@@ -14,7 +14,7 @@ sudo wget https://nodejs.org/dist/v16.18.1/node-v16.18.1-linux-arm64.tar.xz
 sudo wget https://nodejs.org/dist/v16.18.1/node-v16.18.1-linux-x64.tar.xz
 
 # 解压
-sudo tar xf https://nodejs.org/dist/v16.18.1/node-v16.18.1-linux-arm64.tar.xz
+sudo tar xf node-v16.18.1-linux-arm64.tar.xz
 
 # 建立软连接
 sudo ln -s /usr/local/node-v16.18.1-linux-arm64/bin/node /usr/local/bin/
